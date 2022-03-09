@@ -1,1 +1,1 @@
-# Gba-Emulator
+Hello, this is a emulator is for computors/laptops that do noit support regular gameboy emulators. To use it, click "index" or launcher. for index all you need to do is click a random game and for launcher, if it has a error prompt just click "okay". Then just put the game and bios into the select from file dropdown and click play.
